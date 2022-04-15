@@ -11,5 +11,6 @@ public class Main {
         }
 
         System.out.println("01-IRAN");
+        System.out.println("02-JAPAN");
     }
 }
